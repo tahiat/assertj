@@ -1,0 +1,3 @@
+Error: /home/runner/work/assertj-core/assertj-core/src/main/java/org/assertj/core/util/introspection/FieldSupport.java:[147,34] incompatible types: inference variable R has incompatible bounds
+    equality constraints: java.lang.Object,A,T,A,RR
+    upper bounds: java.util.List<T>,java.lang.Object
